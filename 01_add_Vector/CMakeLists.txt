@@ -1,0 +1,1 @@
+add_executable(add_Vector add_Vector.cu)

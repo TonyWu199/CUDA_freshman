@@ -1,0 +1,5 @@
+/home/wuziqiang/code/CUDA_freshman/build/CMakeFiles/rebuild_cache.dir
+/home/wuziqiang/code/CUDA_freshman/build/CMakeFiles/edit_cache.dir
+/home/wuziqiang/code/CUDA_freshman/build/01_add_Vector/CMakeFiles/rebuild_cache.dir
+/home/wuziqiang/code/CUDA_freshman/build/01_add_Vector/CMakeFiles/add_Vector.dir
+/home/wuziqiang/code/CUDA_freshman/build/01_add_Vector/CMakeFiles/edit_cache.dir
